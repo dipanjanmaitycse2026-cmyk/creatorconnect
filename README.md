@@ -39,9 +39,9 @@ Small content creators often struggle with:
 
 CollabNest brings audience intelligence, AI-powered content planning and creator growth tracking into one platform.
 
+```mermaid
 
-'''mermaid
- flowchart TD
+flowchart TD
     A(["🚀 COLLABNEST"]) --> B["Creator Dashboard"]
 
     B --> C["Audience Intelligence"]
@@ -102,7 +102,8 @@ CollabNest brings audience intelligence, AI-powered content planning and creator
 
     %% Arrow styling
     linkStyle default stroke:#a78bfa,stroke-width:2.5px
-  '''
+
+```
 
 
 
