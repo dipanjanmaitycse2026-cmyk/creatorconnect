@@ -124,22 +124,7 @@ flowchart LR
 - **Development Tools:** Git, GitHub and Visual Studio Code.
 
 ## 5. Method-Workflow
-       User Registration
-               |
-               v
-        Creator Discovery
-               |
-               v
-        AI Analysis (Gemini)
-               |
-               v
-         Weekly Planning
-               |
-               v
-      Daily Task Management
-               |
-               v
-        Results & Insights
+
  Technology Integration:
 
 Supabase  --->  Data Storage
@@ -147,9 +132,6 @@ Supabase  --->  Data Storage
 Gemini AI  --->  AI-Powered Suggestions
 
 REST APIs  --->  Backend Communication
-
-
-## 6. Technical Architecture
 
 ##  Method-Workflow
 
