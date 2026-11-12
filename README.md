@@ -1,4 +1,4 @@
-#  CreatorConnect
+#  CollabNest
 
 ### Grow Together, Create Better.
 ## 📑 Table of Contents
@@ -17,7 +17,7 @@
 
 ## 1. Brief One-Line Summary
 
-**CreatorConnect** is an AI-powered platform designed to help small and aspiring content creators understand their audience, make informed content decisions and improve their growth journey. It also features an **AI-powered Daily Planner** that helps creators organize their daily tasks, track their mental well-being, monitor their content growth and maintain a **healthy balance** between personal well-being and content creation.
+**CollabNest** is an AI-powered platform designed to help small and aspiring content creators understand their audience, make informed content decisions and improve their growth journey. It also features an **AI-powered Daily Planner** that helps creators organize their daily tasks, track their mental well-being, monitor their content growth and maintain a **healthy balance** between personal well-being and content creation.
 
 
 
@@ -35,7 +35,7 @@ Small content creators often struggle with:
 
 **Our Solution:**
 
-CreatorConnect brings audience intelligence, AI-powered content planning and creator growth tracking into one platform.
+CollabNest brings audience intelligence, AI-powered content planning and creator growth tracking into one platform.
 
 ```mermaid
 flowchart TD
@@ -151,7 +151,7 @@ REST APIs  --->  Backend Communication
 
 ## 6. Technical Architecture
 
-(To include screenshots of the application, dashboard, AI-generated insights and working features.)
+
 
 
 ## 7. Demo
