@@ -153,11 +153,7 @@ REST APIs  --->  Backend Communication
 
 ##  Method-Workflow
 
-![CollabNest Technical Workflow](workflow.jpg)
-
-
-
-
+![CollabNest Technical Workflow](./src/workflow.png)
 
 ## 7. Demo
 
