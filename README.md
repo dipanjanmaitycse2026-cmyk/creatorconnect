@@ -1,5 +1,5 @@
 #  CollabNest
-![CollabNest Technical Workflow](./src/workflow.png)
+![CollabNest Technical Workflow](./src/track3.png)
 ### Grow Together, Create Better.
 ## 📑 Table of Contents
 
