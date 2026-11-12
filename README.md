@@ -133,7 +133,6 @@ Gemini AI  --->  AI-Powered Suggestions
 
 REST APIs  --->  Backend Communication
 
-##  Method-Workflow
 
 ![CollabNest Technical Workflow](./src/workflow.png)
 
