@@ -157,7 +157,7 @@ REST APIs  --->  Backend Communication
 
 ## 7. Demo
 
-(To describe the implemented features, project outcomes and how CreatorConnect addresses the identified problem.)
+[🎥 View Project Demo](https://drive.google.com/file/d/11YIesYsHbxcgAKbCkrL9Ze3T4LT4zyH-/view?usp=drivesdk)
 
 ## 8. Unique Selling Proposition
 
