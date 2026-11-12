@@ -120,7 +120,7 @@ flowchart LR
 - **Database & Backend Services:** Supabase – for storing creator profiles, weekly plans, daily tasks and collaboration data.
 - **API Development:** REST APIs – for creator discovery, collaboration requests, open listings and weekly plan management.
 - **Frontend:** HTML5, CSS3
-- **Programming Languages:** (Add the languages used in your project.)
+- **Programming Languages:** HTML, CSS, TypeScript
 - **Development Tools:** Git, GitHub and Visual Studio Code.
 
 ## 5. Method-Workflow
