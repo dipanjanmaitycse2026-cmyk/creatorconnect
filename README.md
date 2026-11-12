@@ -39,7 +39,7 @@ CollabNest brings audience intelligence, AI-powered content planning and creator
 
 ```mermaid
 flowchart TD
-    A([" CREATOR CONNECT"]) --> B["Creator Dashboard"]
+    A([" COLLABNEST"]) --> B["Creator Dashboard"]
 
     B --> C["Audience Intelligence"]
     B --> D["AI Content Assistant"]
@@ -111,7 +111,7 @@ flowchart LR
 
 
 
-**🤖 AI-Powered Data Processing:** Powered by **Google Gemini AI**, CreatorConnect analyses user inputs to generate intelligent market insights, creative content ideas and personalised weekly schedules, prioritising mental well-being and sustainable creator growth.
+**🤖 AI-Powered Data Processing:** Powered by **Google Gemini AI**, ColllabNest analyses user inputs to generate intelligent market insights, creative content ideas and personalised weekly schedules, prioritising mental well-being and sustainable creator growth.
 
 ## 🛠️ 
 ## 4. Tools and Technologies
@@ -163,14 +163,14 @@ REST APIs  --->  Backend Communication
 
 ## 📊 Feature Comparison Matrix
 
-CreatorConnect combines creator networking, collaboration, AI-powered content planning, progress tracking, and creator well-being into a single platform.
+CollabNest combines creator networking, collaboration, AI-powered content planning, progress tracking, and creator well-being into a single platform.
 
-The following table compares CreatorConnect with existing platforms in the content creator market.
+The following table compares CollabNest with existing platforms in the content creator market.
 
 - ✅ Supported feature
 - ❌ Not a core advertised feature
 
-| Features | CreatorConnect | Instagram Creator Marketplace | TikTok One | Collabstr | Buffer | Later |
+| Features | CollabNest | Instagram Creator Marketplace | TikTok One | Collabstr | Buffer | Later |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
 | Creator Discovery | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 | Similar Niche Matching | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
