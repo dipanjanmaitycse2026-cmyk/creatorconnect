@@ -18,7 +18,7 @@
 ## 1. Brief One-Line Summary
 
 **CollabNest** is an AI-powered platform designed to help small and aspiring content creators understand their audience, make informed content decisions and improve their growth journey. It also features an **AI-powered Daily Planner** that helps creators organize their daily tasks, track their mental well-being, monitor their content growth and maintain a **healthy balance** between personal well-being and content creation.
-![CollabNest Technical Workflow](./src/track3.png)
+![CollabNest Technical Workflow](./src/https://github.com/farinaahamed06gif/collab-nest/blob/main/src/Burnout%20to%20Balance.png)
 
 
 
