@@ -151,6 +151,11 @@ REST APIs  --->  Backend Communication
 
 ## 6. Technical Architecture
 
+##  Method-Workflow
+
+![CollabNest Technical Workflow](workflow.jpg)
+
+
 
 
 
