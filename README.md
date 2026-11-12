@@ -119,7 +119,7 @@ flowchart LR
 - **AI Integration:** Google Gemini AI (Gemini Flash models) – for market opportunity analysis, creative content suggestions and AI-powered weekly planning.
 - **Database & Backend Services:** Supabase – for storing creator profiles, weekly plans, daily tasks and collaboration data.
 - **API Development:** REST APIs – for creator discovery, collaboration requests, open listings and weekly plan management.
-- **Frontend:** (Add your frontend framework and technologies here.)
+- **Frontend:** HTML5, CSS3
 - **Programming Languages:** (Add the languages used in your project.)
 - **Development Tools:** Git, GitHub and Visual Studio Code.
 
