@@ -39,9 +39,9 @@ Small content creators often struggle with:
 
 CollabNest brings audience intelligence, AI-powered content planning and creator growth tracking into one platform.
 
-```mermaid
+
 flowchart TD
-    A([" COLLABNEST"]) --> B["Creator Dashboard"]
+    A(["🚀 COLLABNEST"]) --> B["Creator Dashboard"]
 
     B --> C["Audience Intelligence"]
     B --> D["AI Content Assistant"]
@@ -71,8 +71,37 @@ flowchart TD
     E4 --> G
     F3 --> G
 
-    G --> H(["Smarter Decisions & Sustainable Growth"])
-```
+    G --> H(["🌟 Smarter Decisions & Sustainable Growth"])
+
+    %% Color definitions
+    classDef main fill:#581c87,stroke:#e9d5ff,color:#ffffff,stroke-width:4px
+    classDef dashboard fill:#312e81,stroke:#a5b4fc,color:#ffffff,stroke-width:3px
+    classDef audience fill:#075985,stroke:#38bdf8,color:#ffffff,stroke-width:3px
+    classDef assistant fill:#9d174d,stroke:#f9a8d4,color:#ffffff,stroke-width:3px
+    classDef planner fill:#115e59,stroke:#5eead4,color:#ffffff,stroke-width:3px
+    classDef growth fill:#9a3412,stroke:#fdba74,color:#ffffff,stroke-width:3px
+    classDef audienceSub fill:#0c4a6e,stroke:#7dd3fc,color:#ffffff,stroke-width:2px
+    classDef assistantSub fill:#701a75,stroke:#f0abfc,color:#ffffff,stroke-width:2px
+    classDef plannerSub fill:#134e4a,stroke:#99f6e4,color:#ffffff,stroke-width:2px
+    classDef growthSub fill:#7c2d12,stroke:#fed7aa,color:#ffffff,stroke-width:2px
+    classDef finalNode fill:#166534,stroke:#86efac,color:#ffffff,stroke-width:3px
+
+    %% Apply colors
+    class A main
+    class B dashboard
+    class C audience
+    class D assistant
+    class E planner
+    class F growth
+    class C1,C2,C3,C4 audienceSub
+    class D1,D2,D3 assistantSub
+    class E1,E2,E3,E4 plannerSub
+    class F1,F2,F3 growthSub
+    class G,H finalNode
+
+    %% Arrow styling
+    linkStyle default stroke:#a78bfa,stroke-width:2.5px
+
 
 
 ## 📊 3. Dataset
